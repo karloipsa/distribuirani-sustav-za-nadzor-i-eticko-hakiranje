@@ -1,0 +1,14 @@
+rezultati/
+**/log/
+**/ssl/
+server/ca/
+tls/generated/
+*.log
+*.err
+*.lock
+*.bak
+*.pem
+*.key
+*.p12
+*.pfx
+tls-check.txt
